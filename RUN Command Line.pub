@@ -1,0 +1,20 @@
+To run on Windows command line
+
+ link to "target file inside project" for example
+cd C:\Users\Owner\IdeaProjects\Spring\SpringBoot\crud-boot-thymeleaf-security\target
+
+java -jar crud-0.0.1-SNAPSHOT.jar
+
+or
+
+cd C:\Users\Owner\IdeaProjects\Spring\SpringBoot\crud-boot-thymeleaf-security\
+
+mvn spring-boot:run
+
+ 
+username: user
+password: check command line for generated password
+
+
+jar file already installed
+
